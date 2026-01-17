@@ -47,7 +47,7 @@ const options = {
         });
         startEnable = false;
         startButton.disabled = !startEnable;
-        return;
+         return;
     }
 
     userSelectedDate = selectedDates[0];
